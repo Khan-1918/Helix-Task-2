@@ -46,11 +46,11 @@ Organize good and enhanced images into respective folders.
 Criteria for Image Classification
 Good Images:
 
-Minimum Dimensions: Height or width ≥ 1000 pixels.
+Minimum Dimensions: Height or width
 
 Brightness Threshold:
-Gray Conversion: Mean pixel intensity ≥ 50.
-RGB: Average brightness across channels ≥ 50.
+Gray Conversion: Mean pixel intensity
+RGB: Average brightness across channels
 
 Enhanced Images:
 
@@ -61,7 +61,7 @@ Processed Image Counts:
 
 Total number of valid images.
 Count of images enhanced and saved.
-Classification results (good vs. bad images).
+Classification results
 Output Directories:
 
 Enhanced Images: /Enhanced 3_Images
